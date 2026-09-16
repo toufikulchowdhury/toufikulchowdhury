@@ -1,30 +1,18 @@
-# Md Toufikul Islam Chowdhury
+# Toufikul Chowdhury
 
-**Data Science graduate | Statistical modelling, spatial analysis, and health data science**
+**Data Science | Statistical & Spatial Methods for Health Research**
 
 [LinkedIn](https://www.linkedin.com/in/toufikul-chowdhury-26173a234/) · [Email](mailto:toufikul.chowdhury@gmail.com)
 
-I hold an MSc in Data Science from the **University of Greenwich**, where my dissertation received **80%**. My background combines data science and computer science, with a developing research focus on the use of statistical and computational methods to study healthcare systems, populations, and geographical inequalities.
+I am a Data Science graduate from the **University of Greenwich** with a background in computer science. My research interests lie in statistical modelling and spatial methods, particularly their application to healthcare and population data.
 
-My work has involved **time-series modelling, spatial analysis, statistical machine learning, and the integration of health, demographic, socioeconomic, and geographical data**. I am particularly interested in methodological questions that arise when analysing how healthcare resources and outcomes vary across places and populations.
+My current research examines **geographical inequalities in maternity healthcare accessibility in England**, integrating health, demographic and spatial data to study variation across places and populations.
 
-I intend to develop these interests through **doctoral research in statistics and data science**, particularly in spatial and spatio-temporal statistics, statistical machine learning, and health and population applications.
+Previously, my MSc research examined **NHS England workforce patterns**, focusing on midwives and ambulance staff through statistical, regional and time-series analysis.
 
-## Research
+I am interested in pursuing **doctoral research** in statistics and data science, with particular interests in spatial and spatio-temporal methods and health applications.
 
-### Healthcare Accessibility and Inequality in England
-*Research in progress*
+## Academic Activity
 
-Current research examining geographical inequalities in access to maternity healthcare across England. The study integrates small-area healthcare, demographic, socioeconomic, and spatial data to investigate how accessibility varies across populations and places, including differences associated with deprivation, ethnicity, demographic structure, and urban–rural geography. The work involves spatial analysis and statistical modelling across multiple NHS and geographical levels. Research data and analytical materials are currently private.
-
-### NHS England Workforce Trends and Forecasting
-*MSc Data Science dissertation — 80%*
-
-Analysed NHS England workforce patterns from **2009–2023**, with particular attention to midwifery and ambulance-related staff groups. The project combined exploratory and regional analysis with time-series modelling to examine workforce change and produce forecasts to **2028**.
-
-## Selected Academic Activity
-
-### CUSP London Data Dive 2025
-Participated in the **CUSP London Data Dive 2025**, an interdisciplinary urban-data competition bringing together students from universities around the world to explore data-driven approaches to greener and more sustainable cities.
-
-[King's College London — Students from around the world develop solutions for greener cities in data competition](https://www.kcl.ac.uk/news/students-from-around-the-world-develop-solutions-for-greener-cities-in-data-competition)
+**CUSP London Data Dive 2025** — participated in an interdisciplinary urban-data research competition involving students from universities around the world.  
+[King's College London — CUSP London Data Dive 2025](https://www.kcl.ac.uk/news/students-from-around-the-world-develop-solutions-for-greener-cities-in-data-competition)
