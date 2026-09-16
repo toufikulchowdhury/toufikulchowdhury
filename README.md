@@ -1,6 +1,6 @@
 # Toufikul Chowdhury
 
-**Data Science | Statistical & Spatial Methods for Health Research**
+**Data Science**
 
 [LinkedIn](https://www.linkedin.com/in/toufikul-chowdhury-26173a234/) · [Email](mailto:toufikul.chowdhury@gmail.com)
 
@@ -12,7 +12,7 @@ Previously, my MSc research examined **NHS England workforce patterns**, focusin
 
 I am interested in pursuing **doctoral research** in statistics and data science, with particular interests in spatial and spatio-temporal methods and health applications.
 
-## Academic Activity
+## Activity
 
 **CUSP London Data Dive 2025** — participated in an interdisciplinary urban-data research competition involving students from universities around the world.  
 [King's College London — CUSP London Data Dive 2025](https://www.kcl.ac.uk/news/students-from-around-the-world-develop-solutions-for-greener-cities-in-data-competition)
