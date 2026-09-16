@@ -1,61 +1,39 @@
 # Md Toufikul Islam Chowdhury
 
-**MSc Data Science · University of Greenwich**  
-London, United Kingdom
+**MSc Data Science, University of Greenwich**  
+*Statistical modelling · Spatial analysis · Health data science*
 
-I am a Data Science graduate with research interests in **statistical modelling, spatial statistics, statistical machine learning, and healthcare inequalities**. My research experience focuses on NHS England and population-level data, combining statistical analysis, forecasting, geographical analysis, and demographic information.
+I am a Data Science graduate interested in using **statistical and computational methods to understand real-world population and healthcare problems**. My work so far has focused on NHS England data, combining time-series, spatial and demographic analysis.
 
-My current interests lie particularly in quantitative methods for understanding **healthcare accessibility, population heterogeneity, spatial inequalities, and uncertainty in health and public-sector data**.
-
-## Research Interests
-
-- Spatial Statistics & Geographical Data Analysis
-- Statistical Machine Learning
-- Healthcare Accessibility & Inequality
-- Population Health & Demographic Data
-- Time-Series Analysis & Forecasting
-- Computational Statistics
+I am particularly interested in developing this work further through **doctoral study**, with a broader focus on statistical methodology, spatial and spatio-temporal modelling, statistical machine learning, and applications in health and population data.
 
 ## Research
 
-### Healthcare Accessibility & Inequality — Research in Progress
+**Healthcare Accessibility & Inequality** · *Research in progress*  
+Investigating geographical inequalities in maternity healthcare accessibility across England using small-area healthcare, demographic, socioeconomic and spatial data. Research materials are not currently public.
 
-I am currently working with my MSc supervisor on research examining geographical inequalities in maternity healthcare accessibility across England. The study considers small-area healthcare, demographic, socioeconomic, and geographical information to investigate how access varies across communities and spatial contexts.
+**NHS England Workforce Trends & Forecasting** · *MSc dissertation — 80%*  
+Analysed NHS England workforce trends from 2009–2023 and developed forecasts to 2028, combining time-series forecasting with regional and organisational analysis.
 
-*Research materials from this ongoing work are not currently public.*
+## Research Interests
 
-### MSc Dissertation — NHS England Workforce Trends & Forecasting
+`Spatial Statistics` · `Statistical Modelling` · `Statistical Machine Learning` · `Health Data Science` · `Time Series` · `Population Data`
 
-**University of Greenwich · MSc Data Science · Dissertation: 80%**
+## Methods & Tools
 
-*Midwives and Ambulance Staff in Focus: NHS England Workforce Trends, Insights, and Forecast*
-
-Analysed NHS England workforce trends from **2009–2023** and developed forecasts to **2028**, with particular focus on ambulance staff, support to ambulance staff, and midwives. The research combined time-series forecasting with regional and organisational analysis of NHS workforce data.
+**Python** · **SQL** · pandas · NumPy · GeoPandas · scikit-learn · statsmodels · QGIS  
+Time-series analysis · Spatial analysis · Machine learning · Data visualisation
 
 ## Education
 
-**MSc Data Science**  
-University of Greenwich, United Kingdom  
-**Merit · Dissertation: 80%**
+**MSc Data Science** — University of Greenwich, UK  
+Merit · Dissertation **80%**
 
-**BSc Computer Science & Engineering**  
-Leading University, Sylhet, Bangladesh  
-**CGPA: 3.30/4.00**
+**BSc Computer Science & Engineering** — Leading University, Bangladesh  
+CGPA **3.30/4.00**
 
-## Methods & Computing
+## Selected Academic Activity
 
-**Programming & Data** — Python · SQL · pandas · NumPy · GeoPandas  
-**Statistical & Computational Methods** — Time-Series Analysis · Forecasting · Machine Learning · Spatial Analysis · Statistical Modelling  
-**Software & Libraries** — scikit-learn · statsmodels · QGIS · Matplotlib
-
-## Academic Activity
-
-### CUSP London Data Dive 2025
-
-Participated in the **CUSP London Data Dive 2025**, an interdisciplinary urban data competition involving students from universities around the world. The event focused on analysing urban data and developing evidence-based approaches to greener and more sustainable cities.
-
-[King's College London — Students from around the world develop solutions for greener cities in data competition](https://www.kcl.ac.uk/news/students-from-around-the-world-develop-solutions-for-greener-cities-in-data-competition)
-
----
-
-*Interested in statistical methodology and data-driven research addressing healthcare and population-level challenges.*
+**CUSP London Data Dive 2025**  
+Participated in an interdisciplinary urban-data competition involving students from universities around the world, exploring data-driven approaches to greener and more sustainable cities.  
+[King's College London — CUSP London Data Dive 2025](https://www.kcl.ac.uk/news/students-from-around-the-world-develop-solutions-for-greener-cities-in-data-competition)
